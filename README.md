@@ -1,6 +1,6 @@
 # school-backmend
-Abackend project for school management system
-Stepd to runclone the repository
+A backend project for school management system
+Step to run.. clone the repository
 run npm install to install the required dependencies
 add .env files
 run nodemon server.js to start the project
